@@ -36,6 +36,9 @@ Add screenshots or a mini video demonstrating model training and
 predictions here. 
 
 Befor Prediction:
+
 <img width="352" height="226" alt="upload file" src="https://github.com/user-attachments/assets/41aa6720-2a78-4052-be46-fec86b368d91" />
+
 After predection:
-<img width="915" height="475" alt="plant pathology" src="https://github.com/user-attachments/assets/9e62feef-b6e7-4822-9093-83de6c3b0d81" />
+
+<img width="608" height="370" alt="plant pathology2" src="https://github.com/user-attachments/assets/0ce338f4-a5e2-4f9f-8976-84a68eaacb8e" />
